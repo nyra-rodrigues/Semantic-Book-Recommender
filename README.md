@@ -31,7 +31,6 @@ The project uses a dataset containing over 7,000 books with rich metadata includ
 - `book-recommender.ipynb`: Main Jupyter notebook containing the recommendation system implementation
 - `books_cleaned.csv`: Processed and cleaned book dataset
 - `tagged_description.txt`: Processed book descriptions with semantic tags
-- `.env`: Environment configuration file
 
 ## Requirements
 
